@@ -20,3 +20,11 @@ http://guari.github.io/eclipse-ui-theme/
 英語版を入れるときには以下が分かりやすかったです。
 
 http://guari.github.io/eclipse-ui-theme/
+
+個人的に嵌ったところ
+
+・confファイル、propertyは、デフォルト設定のままだと全く見えなくなるので、個別で設定して下さい。
+
+
+
+
