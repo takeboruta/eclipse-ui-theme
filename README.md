@@ -27,4 +27,6 @@ http://guari.github.io/eclipse-ui-theme/
 
 
 
+EGit の参考
+http://another.maple4ever.net/archives/2060/
 
